@@ -1,8 +1,21 @@
 body {
+    background-color: rgb(211, 211, 211);
     font-family: Arial, Helvetica, sans-serif;
     color: #434343;
 }
 
+#page {
+    background-color: white;
+    width: 21cm;
+    margin: auto;
+    padding: 1cm;
+    border: solid 2px;
+}
+
 h1, h3 {
     color: #073763;
+}
+
+h1, h2 {
+    text-align: center;
 }
